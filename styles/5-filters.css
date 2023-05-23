@@ -1,0 +1,27 @@
+.filters{
+    justify-content: center;
+    align-items: center;
+}
+.locations{
+    border-right:solid 1px #DDDDDD ;
+    height: 100%;
+    width: 25%;
+}
+.amenities{
+    height: 100%;
+    width: 25%;
+}
+.locations h3{
+    font-weight: 600;
+}
+.amenities h3{
+    font-weight: 600;
+}
+.locations h4{
+    font-weight: 400;
+    font-size: 14px;
+} 
+.amenities h4{
+    font-weight: 400;
+    font-size: 14px;
+}
